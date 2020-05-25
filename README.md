@@ -22,6 +22,7 @@ The following is the basic grammar for the programming language:
 
 - const ::= int | bool | error | string | name | unit
 
+<br />
 
 In addition, the grammar for this language allows for the creation of programs and functions:
 
