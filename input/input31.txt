@@ -1,0 +1,10 @@
+Concat
+Pop
+PushS "Hi there!"
+Concat
+PushS "Test Concat."
+PushS "Test11. "
+Concat
+PushI 100
+Concat
+Quit

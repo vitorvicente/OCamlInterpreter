@@ -1,0 +1,10 @@
+Not
+PushS "<true>"
+Not
+PushB <true>
+Not
+PushB <false>
+Not
+PushI 8
+Not
+Quit

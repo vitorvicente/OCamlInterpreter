@@ -1,0 +1,19 @@
+PushI 123
+PushB <true>
+If
+Pop
+PushB <false>
+PushI 6
+PushS "Zoom University"
+If
+PushN _Name_
+Bind
+Pop
+PushN _Name_
+PushS "Welcome to more of this"
+Concat
+PushB <true>
+PushN _Name_
+PushS "No animal crossing"
+If 
+Quit

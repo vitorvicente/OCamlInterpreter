@@ -1,0 +1,13 @@
+Equal
+PushI 37
+Equal
+Pop
+PushI 37
+Equal
+PushI 66
+PushI 16
+Equal
+PushI 70
+PushS "70"
+Equal
+Quit

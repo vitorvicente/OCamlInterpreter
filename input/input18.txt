@@ -1,0 +1,18 @@
+PushS "<error>"
+PushB <true>
+PushN test_18
+Pop
+Push <unit>
+Neg
+PushI 21
+PushI 85
+Add
+PushI 1
+PushI 59
+Sub
+Rem
+PushI 26
+Mul
+Div
+Pop
+Quit

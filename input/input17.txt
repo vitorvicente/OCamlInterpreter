@@ -1,0 +1,21 @@
+PushB <false>
+Push <unit>
+PushB <true>
+Pop
+PushI 75
+PushI 39
+Sub
+PushI 77
+Add
+Neg
+PushI 21
+Mul
+PushI 78
+Div
+PushI 11
+PushI 59
+Rem
+Push <unit>
+Swap
+Div
+Quit

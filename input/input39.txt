@@ -1,0 +1,13 @@
+PushI 56
+PushI 41
+If
+If
+PushB <false>
+PushI 87
+PushI 49
+If
+PushB <true>
+PushI 10
+PushI 68
+If
+Quit

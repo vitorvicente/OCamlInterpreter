@@ -1,0 +1,9 @@
+Add
+PushI -16
+PushI 2
+PushI -4
+Mul
+Mul
+PushI 4
+Rem
+Quit

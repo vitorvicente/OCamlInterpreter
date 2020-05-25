@@ -1,0 +1,25 @@
+PushI 16
+PushS "Assignment 5!"
+PushB <true>
+Push <unit>
+Begin
+PushI 79
+PushI 92
+Add
+End
+Begin
+PushS "input20"
+Begin
+PushB <false>
+PushB <false>
+Or
+End
+PushS "End"
+End
+Begin
+PushS "this is a test"
+Push <unit>
+PushN unit
+Bind
+End
+Quit

@@ -1,0 +1,47 @@
+PushB <true>
+PushN xyz
+Push <unit>
+PushI 100
+Pop
+PushI 235
+Pop
+Begin
+PushN x
+PushI 564
+PushN b
+Bind
+Begin
+PushI 6
+PushN c
+Bind
+PushN d
+Begin
+PushN c
+PushN b
+Sub
+End
+Swap
+Bind
+PushB <true>
+PushN abc
+Bind
+PushN d
+PushN c
+Mul
+End
+PushN twentytwenty
+Bind
+PushN abc
+PushI 60
+Add
+PushN twentytwenty
+PushI 1
+Mul
+End
+PushI 25
+Equal
+PushN abc
+PushI 73
+Add
+Swap
+Quit

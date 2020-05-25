@@ -1,0 +1,9 @@
+Or
+PushB <false>
+Or
+PushB <true>
+PushB <true>
+Or
+PushS "test13"
+Or
+Quit

@@ -1,0 +1,16 @@
+LessThan
+PushS "I like this song"
+PushI 12
+LessThan
+Pop
+Swap
+PushB <true>
+And
+Pop
+PushI 102 
+PushI 91
+LessThan
+PushI 12
+PushI 103
+LessThan
+Quit

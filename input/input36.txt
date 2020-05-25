@@ -1,0 +1,15 @@
+PushI 23
+LessThan
+Pop
+Pop
+LessThan
+PushI 32
+PushI 91
+LessThan
+PushI 48
+PushI 25
+LessThan
+PushB <true>
+PushI 11
+LessThan
+Quit

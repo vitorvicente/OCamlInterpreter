@@ -1,0 +1,34 @@
+PushI 85
+PushN x
+Bind
+PushI 63
+PushN y
+Bind
+PushN x
+PushN y
+Add
+PushS "this is a string. "
+PushN string1
+Bind
+PushS "WOW!!!"
+PushN string2
+Bind
+PushN string2
+PushN string1
+Concat
+PushB <false>
+PushN bool1
+Bind
+PushB <false>
+PushN bool2
+Bind
+PushN bool1
+PushN bool2
+And
+PushI 15
+PushN x
+Bind
+PushN x
+PushN y
+Add
+Quit

@@ -1,0 +1,10 @@
+And
+PushB <false>
+And
+Swap
+PushB <true>
+And
+PushB <true>
+PushB <true>
+And
+Quit

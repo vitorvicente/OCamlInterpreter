@@ -1,0 +1,11 @@
+PushI 20
+PushI -0
+Sub
+PushS " g o o f y "
+PushN A
+PushS "virus"
+PushN _good_place_
+PushN c
+PushN d
+Swap
+Quit

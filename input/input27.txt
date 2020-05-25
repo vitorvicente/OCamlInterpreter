@@ -1,0 +1,15 @@
+PushI 12
+PushN _x_
+Bind
+Pop
+PushI 2
+PushN _x_
+Add
+PushB <true>
+PushN b
+Bind 
+Pop
+PushB <true>
+PushN B
+Equal
+Quit

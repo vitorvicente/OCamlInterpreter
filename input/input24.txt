@@ -1,0 +1,11 @@
+Not
+PushB <true>
+PushB <true>
+Not
+PushB <false>
+And
+PushB <true>
+Or
+PushS "more testsss"
+Not
+Quit

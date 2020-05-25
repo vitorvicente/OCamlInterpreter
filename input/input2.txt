@@ -1,0 +1,7 @@
+PushI 20
+PushB <false>
+PushB <false>
+PushS "thisisastring"
+PushN thisisastring
+Push <unit>
+Quit

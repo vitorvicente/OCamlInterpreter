@@ -1,0 +1,15 @@
+PushI 82
+PushI 54
+Neg
+Add
+PushI 61
+Sub
+Div
+Pop
+PushI 56
+Mul
+PushI 6
+Rem
+Pop
+PushN test15
+Quit

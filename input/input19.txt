@@ -1,0 +1,24 @@
+PushI 67
+PushI -0
+PushI 38
+PushS "     hi     "
+PushS "this is a test string"
+PushN __test19__
+PushN a_name
+PushB <false>
+PushB <true>
+Push <unit>
+Pop
+PushI 62
+PushI 17
+Add
+PushI 50
+Mul
+PushI -0
+Div
+PushI 10
+PushI 56
+Rem
+Neg
+Swap
+Quit

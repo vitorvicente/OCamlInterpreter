@@ -1,0 +1,9 @@
+PushB <false>
+PushI 15
+PushI 20
+PushI 3
+Swap
+PushB <false>
+Pop
+Mul
+Quit

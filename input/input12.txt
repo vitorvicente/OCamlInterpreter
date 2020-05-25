@@ -1,0 +1,9 @@
+PushN a_name
+PushI 34
+PushI 42
+Sub
+Neg
+PushS "12"
+Div
+Swap
+Quit

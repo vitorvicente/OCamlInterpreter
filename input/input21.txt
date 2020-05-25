@@ -1,0 +1,9 @@
+PushN Myname
+PushI 20
+Swap
+PushS "Bye"
+Concat
+Swap
+PushS "Hi"
+Concat
+Quit

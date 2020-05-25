@@ -1,0 +1,11 @@
+PushI 68
+PushI 29
+Add
+PushN test_13
+Push <unit>
+PushS "this is a string"
+PushI 74
+PushI 27
+Rem
+Swap
+Quit

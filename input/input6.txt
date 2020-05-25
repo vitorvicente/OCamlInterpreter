@@ -1,0 +1,7 @@
+PushI 200
+PushI 3
+Mul
+PushS "hello world"
+PushI 4
+Div
+Quit

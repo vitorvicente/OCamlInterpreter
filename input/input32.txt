@@ -1,0 +1,11 @@
+PushB <false>
+PushB <true>
+And
+PushB <true>
+And
+Pop
+And
+PushB <false>
+PushS "<false>"
+And
+Quit
